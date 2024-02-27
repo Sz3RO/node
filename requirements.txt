@@ -5,3 +5,5 @@ requests
 selenium
 selenium_wire
 webdriver_manager
+setuptools
+wheel
